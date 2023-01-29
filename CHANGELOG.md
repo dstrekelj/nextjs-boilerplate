@@ -14,3 +14,5 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Bug report issue template
 - Pull request template
 - Next.js project
+- Static analysis with ESLint, Prettier, EditorConfig
+- Code linting and fixing on pre-commit hook
