@@ -17,3 +17,4 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Static analysis with ESLint, Prettier, EditorConfig
 - Code linting and fixing on pre-commit hook
 - Unit testing with Jest
+- End-to-end testing with Cypress
