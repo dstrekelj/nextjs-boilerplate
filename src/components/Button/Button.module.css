@@ -1,0 +1,17 @@
+.button {
+  min-height: 40px;
+  min-width: 80px;
+  padding: 8px 16px;
+}
+.button--primary {
+  border: none;
+  background: black;
+  color: white;
+  font-weight: 700;
+}
+.button--secondary {
+  border: none;
+  background: white;
+  color: black;
+  font-weight: 700;
+}
